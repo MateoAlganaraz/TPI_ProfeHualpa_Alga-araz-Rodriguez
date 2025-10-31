@@ -243,4 +243,7 @@ sistema-gestion-tecnologica/
     └── [jerarquía de categorías/marcas/tipos]
 ```
 
+## Video explicativo
+
+
 **Nota**: El sistema utiliza archivos CSV para persistencia de datos. Para entornos de producción con alta concurrencia, considera migrar a una base de datos relacional.
