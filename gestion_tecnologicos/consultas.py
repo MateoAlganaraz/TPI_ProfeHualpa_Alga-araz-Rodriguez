@@ -1,4 +1,3 @@
-# consultas.py
 from typing import List, Dict
 from .filesystem import leer_recursivo
 

@@ -1,4 +1,3 @@
-# menu.py
 from .filesystem import leer_recursivo
 from .producto import alta_producto, modificar_producto, eliminar_producto
 from .consultas import mostrar_productos, filtrar_productos, estadisticas, ordenar_productos
