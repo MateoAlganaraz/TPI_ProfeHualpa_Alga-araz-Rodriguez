@@ -244,6 +244,6 @@ sistema-gestion-tecnologica/
 ```
 
 ## Video explicativo
-
+El video explicativo está en la parte de entregas cómo un archivo MP4
 
 **Nota**: El sistema utiliza archivos CSV para persistencia de datos. Para entornos de producción con alta concurrencia, considera migrar a una base de datos relacional.
